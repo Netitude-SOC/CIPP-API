@@ -27,4 +27,4 @@ jobs:
           app-name: 'cyberdrain335cn'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_297F9C8ABAFD49A681D765F0CCAE6A2A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C3ACCCB15CB64987B46089F743FAC1C4 }}
